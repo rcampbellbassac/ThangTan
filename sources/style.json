@@ -1,0 +1,6 @@
+{"name": "Thang Tan", "slug": "ThangTan", "ink": "a", "body": "ທ",
+ "sign_text": "ທາງເຂົ້າບ້ານສວນ / ທາງຕັນ (garden entrance / dead end)",
+ "notes": "Red directional sign: heavy rounded display letters with flat-ended stems and big soft bowls.",
+ "labels": {"ທ": [[45, 410, 228, 280]], "າ": [[268, 410, 95, 280]], "ງ": [4], "ັ": [9]},
+ "nib": {"shape": "round"},
+ "effects": [{"op": "wobble", "amp": 3, "wave": 300}]}
